@@ -1,0 +1,13 @@
+E:\STP_audio\audio_editor\audio_editor\bin\Debug\audio_editor.exe.config
+E:\STP_audio\audio_editor\audio_editor\bin\Debug\audio_editor.exe
+E:\STP_audio\audio_editor\audio_editor\bin\Debug\audio_editor.pdb
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor.csprojResolveAssemblyReference.cache
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\MainWindow.baml
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\MainWindow.g.cs
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\App.g.cs
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor_MarkupCompile.cache
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor.g.resources
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor.Properties.Resources.resources
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor.csproj.GenerateResource.Cache
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor.exe
+E:\STP_audio\audio_editor\audio_editor\obj\Debug\audio_editor.pdb
